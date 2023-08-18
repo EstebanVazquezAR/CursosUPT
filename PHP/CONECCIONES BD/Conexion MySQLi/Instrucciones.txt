@@ -1,0 +1,7 @@
+# CONECCION DE BD MySQL
+
+Crear 3 archivos 
+
+Archivo 1 config.ini
+Archivo 2 conn.php
+Archivo 3 [Nombre].php
