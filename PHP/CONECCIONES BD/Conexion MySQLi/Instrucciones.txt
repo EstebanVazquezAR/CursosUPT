@@ -5,3 +5,7 @@ Crear 3 archivos
 Archivo 1 config.ini
 Archivo 2 conn.php
 Archivo 3 [Nombre].php
+
+
+
+Se agrega en el archivo 3 el uso de la coneccion con una consulta a una BD y el como se representan los datos usansdo un paso de parametro mediante un GET
